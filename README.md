@@ -3,7 +3,7 @@
 ## 📈 Overview
 This Tableau project demonstrates the difference between **dimensions** and **measures** within a dataset. It highlights how Tableau categorizes fields (dimensions) and performs aggregations (measures) to create meaningful visualizations.
 
-Through this project, I gained a deeper understanding of Tableau’s data structure, essential for building dynamic and accurate dashboards.
+Through this project, I gained a deeper understanding of Tableau’s data structure, which is essential for building dynamic and accurate dashboards.
 
 ## 🛠 Tools Used
 - Tableau Public
@@ -12,11 +12,12 @@ Through this project, I gained a deeper understanding of Tableau’s data struct
 [Click here to view the Tableau Visualization](https://public.tableau.com/views/DimensionsandMeasures_17253937168650/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📷 Project Preview
-![Dimensions and Measures Screenshot](Sheet%201.png)
+![Sheet 1](https://github.com/user-attachments/assets/ead08424-a23c-4c61-ac9e-e205826fe44c)
+
 
 ## 🧠 Key Concepts
 - **Dimensions** are qualitative fields such as names, dates, or geographical data used to categorize and segment information.
-- **Measures** are quantitative fields that are aggregated, such as sales totals, profit margins, or number of orders.
+- **Measures** are aggregated quantitative fields, such as sales totals, profit margins, or the number of orders.
 
 ## 🧩 Skills Demonstrated
 - Data Structuring
